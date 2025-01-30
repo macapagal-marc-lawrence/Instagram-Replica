@@ -1,8 +1,10 @@
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     background-color: #fafafa;
 }
+
 
 .sidebar {
     position: fixed;
@@ -46,7 +48,7 @@ body {
 }
 
 .sidebar ul li a i {
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .sidebar ul li a span {
@@ -65,8 +67,9 @@ body {
     font-weight: bold;
 }
 
+
 .main-content {
-    margin-left: 80px; 
+    margin-left: 70px; 
     padding: 20px;
     background-color: white;
 }
