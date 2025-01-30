@@ -66,3 +66,37 @@ body {
     font-size: 14px;
     font-weight: bold;
 }
+
+.main-content {
+    background-color: white;
+    padding: 20px;
+}
+
+.search-bar input {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+.search-bar input:focus {
+    border-color: #0095f6;
+    outline: none;
+}
+
+.search-results {
+    margin-top: 20px;
+}
+
+.result-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.result-item:last-child {
+    border-bottom: none;
+}
