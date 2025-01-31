@@ -11,7 +11,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    width: 70px;
+    width: 100px;
     background-color: #fff;
     border-right: 1px solid #ddd;
     display: flex;
@@ -75,7 +75,7 @@ body {
     padding: 30px;
     overflow-x: auto;
     white-space: nowrap;
-    margin-left: 80px;
+    margin-left: 125px;
 }
 
 .story {
@@ -99,7 +99,7 @@ body {
 
 /* Feed Section */
 .feed {
-    margin-left: 120px;
+    margin-left: 160px;
     width: 750px;
 }
 
@@ -209,7 +209,7 @@ body {
     border: none;
     color: #0095f6;
     font-weight: bold;
-    
+
     cursor: pointer;
 }
 
